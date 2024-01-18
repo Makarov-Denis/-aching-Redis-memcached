@@ -59,6 +59,9 @@ sudo systemctl status memcached
 
 ```
 
+Запущенный memcached представлен на скриншоте ниже 
+
+![Снимок68](https://github.com/Makarov-Denis/Caching-Redis-memcached/assets/148921246/a0565b16-9db4-42a4-989d-b2b5604796a3)
 
 ---
 
